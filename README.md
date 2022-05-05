@@ -31,4 +31,3 @@ Average Session Time: 0:06:16
 Total Sessions for 5/2022:   10
 Total Time For Month 5/2022: 7:17:5
 Average Session Time: 0:43:42
------------------------------------------------------------
