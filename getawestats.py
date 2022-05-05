@@ -18,11 +18,10 @@ finaloutput = []
 
 finaloutput.append("============================================== AWE REPORT ==========================================================")
 # print("============================================== AWE REPORT ==========================================================")
+
+
 # Function to make sure the cell we are using provides a vaild date, if not skip the cell. 
 # (Due to comma issues with game names which shifts the cells over and breaks the code.)
-
-
-
 def is_valid_date(user_date):
     try:
         datetime.strptime(user_date, "%m/%d/%Y %I:%M:%S %p")
