@@ -1,4 +1,4 @@
-# getawestats
+# getAWEstats
 
 Due to issues with the AWE stats page online, I had to come up with a creative solution.
 
